@@ -48,11 +48,11 @@ We believe in giving back to the community. Here are some of our open-source con
 - **[Repository Name]**: Description
 - **[Repository Name]**: Description
 
-## 📚 Latest Blog Posts
+## 📚 Latest Insights from Blog
+
+Visit [workerslab.com/blog](https://www.workerslab.com/blog) for in-depth business insights and technical articles.
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog post title]
-- [Blog post title]
 - [Blog post title]
 <!-- BLOG-POST-LIST:END -->
 
