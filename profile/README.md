@@ -53,11 +53,11 @@ We believe in giving back to the community. Here are some of our open-source con
 Visit [workerslab.com/blog](https://www.workerslab.com/blog) for in-depth business insights and technical articles.
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Development Lifecycle: A Comprehensive Guide](https://workerslab.com/blog/all/mobile-app-development-lifecycle-a-comprehensive-guide/)
+- [Java for Mobile App Development: A Complete Guide for Businesses](https://workerslab.com/blog/insights/java-for-mobile-app-development-a-complete-guide-for-businesses/)
+- [Mobile App Development with React](https://workerslab.com/blog/insights/mobile-app-development-with-react/)
+- [Flutter vs Kotlin: Which Is Better for Mobile App Development?](https://workerslab.com/blog/insights/flutter-vs-kotlin-which-is-better-for-mobile-app-development/)
+- [Mobile App Development Lifecycle: A Comprehensive Guide](https://workerslab.com/blog/insights/mobile-app-development-lifecycle-a-comprehensive-guide/)
 - [Ruby on Rails vs JavaScript: Key Differences](https://workerslab.com/blog/insights/ruby-on-rails-vs-javascript-key-differences/)
-- [Is Ruby a Scripting Language?](https://workerslab.com/blog/insights/is-ruby-a-scripting-language/)
-- [Custom Web Portal Development: Unlock Tailored Solutions for Your Business](https://workerslab.com/blog/insights/custom-web-portal-development-unlock-tailored-solutions-for-your-business/)
-- [Enterprise Web Application Development: A Complete Guide](https://workerslab.com/blog/insights/enterprise-web-application-development-a-complete-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 WorkersLab at a Glance
